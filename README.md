@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Fala aí, eu sou o Luiz Eduardo 👾</h1>
+<h1 align="center">🎮 Luiz Eduardo 👾</h1>
 
 <p align="center">
   Gamer nas horas vagas, dev no foco total. Cursando ADS, apaixonado por código e tecnologia. 🚀
