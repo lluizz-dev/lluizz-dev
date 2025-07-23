@@ -10,7 +10,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 - 🖥️ Estudando: C, Python e Web (HTML, CSS, JS)
-- 🔧 Já desenvolvi sistemas pra jogos (ex: recrutamento de membros)
+- 🔧 Já desenvolvi sistemas pra jogos (ex: recrutamento de membros em servidores FiveM)
 - 🎮 Gosto de jogar **Valorant**, **GTA 5** e **Naruto Storm**
 - 📧 Contato: [luiz.eduardodss24@gmail.com](mailto:luiz.eduardodss24@gmail.com)
 
