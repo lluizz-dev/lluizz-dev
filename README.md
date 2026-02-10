@@ -12,20 +12,6 @@ Atualmente estudo e desenvolvo projetos principalmente em **Java, C e Python**, 
 
 ---
 
-## 📊 GitHub Status
-
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lluizz-DEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluizz-DEV&layout=compact&langs_count=8&theme=tokyonight"/>
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lluizz-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</p>
-
----
-
 ## 🧠 Tech Stack
 
 ### 💻 Linguagens
