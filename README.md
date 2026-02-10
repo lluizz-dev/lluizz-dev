@@ -1,72 +1,87 @@
-<h1 align="center">🎮 Luiz Eduardo 👾</h1>
+# Luiz Eduardo | Desenvolvedor de Software
+
+Olá, sou Luiz Eduardo dos Santos Silva! 🚀
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em **desenvolvimento backend** e construção de projetos práticos.
+
+---
+
+## 👤 Sobre mim
+
+Sou um desenvolvedor em formação, curioso e focado em aprender na prática. Tenho afinidade com **lógica e programação**, gosto de entender como as coisas funcionam por baixo dos panos e transformar ideias em sistemas funcionais.
+Atualmente estudo e desenvolvo projetos principalmente em **Java, C e Python**, com interesse em backend, banco de dados e boas práticas de código. Busco evoluir constantemente, tanto tecnicamente quanto profissionalmente.
+
+---
+
+## 📊 GitHub Status
+
 
 <p align="center">
-  Gamer nas horas vagas, dev no foco total. Cursando ADS, apaixonado por código e tecnologia. 🚀
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lluizz-DEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluizz-DEV&layout=compact&langs_count=8&theme=tokyonight"/>
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lluizz-dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </p>
 
 ---
 
-### ⚔️ Sobre mim
+## 🧠 Tech Stack
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-- 🖥️ Estudando: **C, Java, SQL e HTML/CSS**
-- 📧 Contato: [luiz.eduardodss24@gmail.com](mailto:luiz.eduardodss24@gmail.com)
-
----
-
-### 🔫 Stack atual
+### 💻 Linguagens
 
 <p>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,mysql" />
+</p>
+
+### ⚙️ Frameworks & Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,flask" />
+</p>
+
+### 🌐 Redes, Sistemas & Segurança
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,debian,windows,docker,aws,samba" />
 </p>
 
 ---
 
-### 📈 Stats
+## 📂 Projetos em Destaque
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lluizz-dev&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluizz-dev&layout=compact&theme=tokyonight" />
-</p>
+* 📚 **Sistema de Biblioteca / Livraria (Java + PostgreSQL)**   
+  Modelagem MER e DER, normalização, JDBC, SQL e operações CRUD.
 
----
+* 🎯 **Letreco (Jogo em Java)**   
+  Jogo inspirado em palavras, com lógica, validações e uso de estruturas em Java.
 
-### 📫 Me encontre aqui
-
-<p >
-<a href="https://www.linkedin.com/in/lluizz-dev" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
-</a>
-<a href="https://github.com/lluizz-dev" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-</a>
-<a href="mailto:luiz.eduardodss24@gmail.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="gmail" width="40" height="40"/>
-</a>
-</p>
+* 🖥️ **Servidor Caseiro**   
+  Criação o meu própio servidor em casa com notebook antigo, para uso do docker (containers) e samba (compartilhamento de arquivos) .
 
 ---
 
-### 🧠 Curiosidades
+## 📈 Atualmente estudando
 
-- 🤖 Interesse por IA, automações e bots
-- 📚 Sempre aprendendo algo novo
-- 🧩 Organizado com o GitHub — porque portfólio também é arma
+* Java (JDBC, Maven, PostgreSQL)
+* Requesitos de Software
+* Backend com Python (Flask)
+* Docker e Docker Compose
 
 ---
 
-<h3 align="center">🎯 "Code hard, play harder." 💻🎮</h3>
+## 🌐 Contato
+
+* 💼 LinkedIn: **[lluizz-dev](https://www.linkedin.com/in/lluizz-dev/)**
+* 📧 Email: **[luiz.eduardodss24@gmail.com](mailto:luiz.eduardodss24@gmail.com)**
+
+---
+
+⭐ *Se curtir algum projeto, deixa uma estrela — isso ajuda demais!*
+
