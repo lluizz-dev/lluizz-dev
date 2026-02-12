@@ -29,7 +29,7 @@ Atualmente estudo e desenvolvo projetos principalmente em **Java, C e Python**, 
 ### ⚙️ Frameworks & Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,maven,flask" />
+  <img src="https://skillicons.dev/icons?i=git,github,django,maven,flask" />
 </p>
 
 ### 🌐 Redes, Sistemas & Segurança
