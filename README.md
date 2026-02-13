@@ -57,7 +57,7 @@ Atualmente estudo e desenvolvo projetos principalmente em **Java, C e Python**, 
 
 * Java (JDBC, Maven, PostgreSQL)
 * Requesitos de Software
-* Backend com Python (Flask)
+* Código Limpo - Robert C. Martin
 * Docker e Docker Compose
 
 ---
